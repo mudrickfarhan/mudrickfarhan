@@ -28,12 +28,12 @@ Hello! I’m Mudrick Farhan, a crypto, airdrop, and blockchain technology enthus
 
 ### Ethereum (EVM) Address:
 ```bash
-0xaf1c7930705e7453D96747809807Ac5e77cDE7A0
+0xAc18D82280316485fac7CF5CCbE1DFb35128309d
 ```
 
 ### Solana Address:
 ```bash
-AxmT6FePMJ7U5PrFv2pJWW4Hqkre5ezb6tN7UtHu6zQ9
+9eSD2jJXdC7pGQq7vCEJ2R9pHPBNmHtUweasZfaNcuEx
 ```
 
 ## Your support means a lot for the development of this project! ❤️
