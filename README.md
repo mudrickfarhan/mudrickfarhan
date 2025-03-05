@@ -19,3 +19,21 @@ Hello! I’m Mudrick Farhan, a crypto, airdrop, and blockchain technology enthus
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue)](https://t.me/airdropuhuyuhuy)  
 
 [![Follow](https://img.shields.io/github/followers/mudrickfarhan?style=social)](https://github.com/mudrickfarhan)
+
+#
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🔥+Thank+You+for+Your+Support!)](https://git.io/typing-svg)
+
+## If this project has been helpful to you, consider supporting me with a coffee ☕ or a donation via the following addresses:
+
+### Ethereum (EVM) Address:
+```bash
+0xaf1c7930705e7453D96747809807Ac5e77cDE7A0
+```
+
+### Solana Address:
+```bash
+AxmT6FePMJ7U5PrFv2pJWW4Hqkre5ezb6tN7UtHu6zQ9
+```
+
+## Your support means a lot for the development of this project! ❤️
