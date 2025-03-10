@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+AIRDROP+UHUY)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+AIRDROP+UHUY)](https://git.io/typing-svg)  
 
 Hello! I’m Mudrick Farhan, a crypto, airdrop, and blockchain technology enthusiast. I share ways to earn free money from crypto, testnets, and the latest airdrops. Don’t forget to follow for updates!  
 
